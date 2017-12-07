@@ -1,0 +1,32 @@
+{
+	"data" : [
+		{
+			"name": "A",
+			"score": 23
+		},
+		{
+			"name": "B",
+			"score": 75
+		},
+		{
+			"name": "C",
+			"score": 34
+		},
+		{
+			"name": "D",
+			"score": 66
+		},
+		{
+			"name": "E",
+			"score": 32
+		},
+		{
+			"name": "F",
+			"score": 94
+		},
+		{
+			"name": "G",
+			"score": 77
+		}								
+	]
+}
